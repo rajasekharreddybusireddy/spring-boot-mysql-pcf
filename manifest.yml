@@ -1,5 +1,5 @@
 applications:
-- name: my-reviews
+- name: my-company-reviews
 path: target/my-reviews.jar
 domain: cfapps.io
 memory: 1G
