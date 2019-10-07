@@ -1,4 +1,4 @@
-package com.javatechie.myreview.api;
+package com.blogspot.javabyrajasekhar.myreview.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

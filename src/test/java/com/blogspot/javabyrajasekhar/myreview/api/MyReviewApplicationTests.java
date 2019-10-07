@@ -1,4 +1,4 @@
-package com.javatechie.myreview.api;
+package com.blogspot.javabyrajasekhar.myreview.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
